@@ -11,12 +11,21 @@ QuizQuestion(
 ],
 ),
 QuizQuestion(
-   "What color was Coca-Cola originally?",
+   "What color is a polar bear's fur?",
 [
-  "Blue",
-  "Caramel",
-  "Orange",
-  "Transparent"
+  "White",
+  "Black",
+  "Clear",
+  "Grey"
 ],
-  ),
+),
+QuizQuestion(
+  "How much does a cloud weigh?",
+[
+  "500t"
+  "500lb"
+  "50g"
+  "5g"
+],
+),
 ];
