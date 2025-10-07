@@ -4,8 +4,8 @@ const questions = [
 QuizQuestion(
   "What color was Coca-Cola originally?",
 [
-  "Blue",
   "Caramel",
+  "Blue",
   "Orange",
   "Transparent"
 ],
@@ -13,9 +13,9 @@ QuizQuestion(
 QuizQuestion(
    "What color is a polar bear's fur?",
 [
+  "Clear",
   "White",
   "Black",
-  "Clear",
   "Grey"
 ],
 ),
@@ -28,4 +28,34 @@ QuizQuestion(
   "5g"
 ],
 ),
+QuizQuestion(
+  'Which component of human blood is primarily responsible for transporting oxygen?',
+  [
+    'Red blood cells',
+    'Platelets',
+    'White blood cells',
+    'Plasma',
+  ],
+),
+
+QuizQuestion(
+  'What is the largest ocean on Earth?',
+  [
+    'Pacific Ocean',
+    'Atlantic Ocean',
+    'Indian Ocean',
+    'Arctic Ocean',
+  ],
+),
+
+QuizQuestion(
+  'The phenomenon of light refraction refers to what kind of change in the direction and speed of light when it travels through different media?',
+  [
+    'Direction changes, speed changes',
+    'Direction unchanged, speed unchanged',
+    'Direction changes, speed unchanged',
+    'Direction unchanged, speed changes',
+  ],
+),
+
 ];

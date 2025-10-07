@@ -9,3 +9,10 @@ class QuizQuestion {
     return shuffedAnswers;
   }
 }
+extension QuizQuestionShuffle on QuizQuestion {
+  List<String> getShuffledAnswers() {
+    final copy = List.of(answers);
+    copy.shuffle();
+    return copy;
+  }
+}
