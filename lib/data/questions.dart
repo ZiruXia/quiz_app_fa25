@@ -22,9 +22,9 @@ QuizQuestion(
 QuizQuestion(
   "How much does a cloud weigh?",
 [
-  "500t"
-  "500lb"
-  "50g"
+  "500t",
+  "500lb",
+  "50g",
   "5g"
 ],
 ),
